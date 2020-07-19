@@ -1,0 +1,6 @@
+baseURL = "https://ioanaverebi.github.io/serbanganea/"
+languageCode = "en-us"
+title = "serban ganea"
+footer = "info@serbanganea.com"
+theme = "vitae"
+publishDir = "public"
