@@ -1,5 +1,5 @@
 ---
-title: "rey soler"
+title: "addendum"
 concept: "restauration/adaptive reuse former printing press rey soler granada"
 program: "education/restoration"
 year: "2013"
