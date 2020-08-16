@@ -11,5 +11,7 @@ images:
   - /img/00_Site_Google.jpg
   - /img/000_perspective_2_ray_a.jpg
   - /img/01_Plaza_Jasmin_desat.jpg
+  - /img/001_desen_Situatie_Toporasilor.png
+  
 date: 2020-05-02T00:06:22+03:00
 ---
