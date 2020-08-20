@@ -1,11 +1,11 @@
 ---
 title: "House T"
-concept: "use of minimum amount of materials to cover all spatial and living requierements of a couple. the love for light and textures organised through geometry. "
-program: "program"
+concept: "the initial starting point was the use of minimum amount of materials to cover all spatial and living requirements. the love for light and textures organised through geometry."
+program: "detached house"
 year: "2015"
 team: "Serban Ganea"
 budget: "150"
-description: "sigle family house for a couple."
+description: "located in a newly developed area of timisoara, the house is destined to a couple of software developers with the posibility of extension on the upper floor."
 images:
   - /img/000_desen_incadrare_toporasilor_10.jpg
   - /img/001_desen_Situatie_Toporasilor.png
