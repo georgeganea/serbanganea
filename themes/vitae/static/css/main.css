@@ -20,7 +20,7 @@ body {
 }
 
 body {
-  font-family: "Txt";
+  font-family: "menlo";
   font-weight: 400;
   font-size: 18px;
   color: #333;
@@ -36,7 +36,7 @@ main {
 }
 
 header {
-  font-family: "Txt", serif;
+  font-family: "menlo";
   font-size: 6px;
   margin-bottom: 20px;
 }
@@ -52,7 +52,7 @@ header nav li {
 }
 
 footer {
-  font-family: "Txt", serif;
+  font-family: "menlo";
   text-align: left;
   font-size: 0.75em;
   color: #999;
