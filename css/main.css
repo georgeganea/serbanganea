@@ -14,7 +14,8 @@
   src: local("Verdana"), url("../webfonts/Verdana.woff") format("woff");
 }
 
-html body {
+html,
+body {
   height: "100%";
 }
 
