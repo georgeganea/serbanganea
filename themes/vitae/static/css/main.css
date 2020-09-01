@@ -14,6 +14,10 @@
   src: local("Verdana"), url("../webfonts/Verdana.woff") format("woff");
 }
 
+html body {
+  height: "100%";
+}
+
 body {
   font-family: "Txt";
   font-weight: 400;
@@ -22,6 +26,12 @@ body {
   line-height: 1.6rem;
   max-width: 800px;
   margin: 20px auto 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
 }
 
 header {
