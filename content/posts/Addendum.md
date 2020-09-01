@@ -1,6 +1,6 @@
 ---
 title: "Addendum Hq"
-concept: "Concept: concept"
+concept: "Concept: "
 program: "Programm Journalist Headquaters"
 year:    "year: 2018"
 team:    "team: Serban Ganea, Lukas Allner"
