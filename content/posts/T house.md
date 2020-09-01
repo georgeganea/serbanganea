@@ -12,8 +12,8 @@ images:
   - /img/002_desen_plan parter_amenajare.png
   - /img/004_desen_fatada_vest.png
   - /img/003_desen_plan parter.png
-  - /img/01_DSCF6372-Edit.jpg
-  - /img/02_DSCF6374-Edit.jpg
+  - /img/_00_DSCF6955.jpg
+  - /img/_01_DSCF6942.jpg
   - /img/03_DSCF6955-Edit.jpg
   - /img/04_DSCF6404-Edit.jpg
   - /img/05_DSCF6390-Edit-2.jpg
