@@ -1,11 +1,11 @@
 ---
-title: "House T"
-concept: "As starting point was the use of minimum amount of resources to cover all spatial and living requirements. light and textures organised through geometry."
-program: "detached house"
-year: "2015"
-team: "Serban Ganea"
-budget: "150 k"
-description: "located in a newly developed area of Timisoara, the house is destined to a couple of software developers with the posibility of extension on the upper floor."
+title: "Title: House T"
+concept: "Concept: As starting point was the use of minimum amount of resources to cover all spatial and living requirements. light and textures organised through geometry."
+program: "Program: detached house"
+year: "Year: 2015"
+team: "Design, Execution detailing: Serban Ganea"
+budget: "Budget: 150 k"
+description: "Description: located in a newly developed area of Timisoara, the house is destined to a couple of software developers with the posibility of extension on the upper floor."
 images:
   - /img/000_desen_incadrare_toporasilor_10.jpg
   - /img/001_desen_Situatie_Toporasilor.png
