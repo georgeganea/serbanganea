@@ -82,6 +82,7 @@ a {
   color: #b1b1b1;
   text-decoration: none;
   word-break: break-word;
+  cursor: pointer;
 }
 a:hover {
   color: #808080;
@@ -286,6 +287,15 @@ table th {
   color: #808080;
 }
 
+.post {
+  margin: 30px;
+}
+
+.posts {
+  display: flex;
+  flex-flow: row wrap;
+}
+
 .recent-posts .posts .post {
   margin-bottom: 45px;
 }
@@ -310,10 +320,32 @@ table th {
   margin-bottom: 10px;
 }
 
+.aboutblog {
+  display: flex;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800;
+  font-size: 0.8rem;
+  
+}
+
+.aboutblog a {
+  color: #333;
+}
+
+.headerspacer {
+  height: 150px;
+}
+
 .picture {
+  display: block;
   margin-right: 30px;
-  border-top: 1px solid #eee;
-  border-left: 1px solid #eee;
+  border-top: 1px solid rgb(145, 145, 145);
+  border-left: 1px solid  rgb(145, 145, 145);
   min-width: 64px;
   min-height: 64px;
 }
