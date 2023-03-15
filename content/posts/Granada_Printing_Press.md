@@ -7,11 +7,11 @@ team: "Team: Serban Ganea, Irene Meta, Chema Bernal Lapeña"
 budget: "Budget: 7 mil"
 description: "Description: Academic lodging, library and restaurant. Part of the Granada Architecture restoration courses, the proposal connects and expands the former printing press into a multifunctional facility."
 images:
-  - /img/06_sectiune_rey_2020.jpg
+  - /img/00_light module.jpg
   - /img/00_Site_Google.jpg
   - /img/000_perspective_2_ray_a.jpg
   - /img/01_Plaza_Jasmin_desat.jpg
   - /img/
-  
+
 date: 2020-05-02T00:06:22+03:00
 ---
