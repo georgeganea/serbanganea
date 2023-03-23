@@ -1,6 +1,7 @@
 baseURL = "https://aeonatelier.at/"
 languageCode = "en-us"
-title = "serban ganea"
-footer = "info@serbanganea.com"
+title = "aeonatelier"
+footer = "atelier@serbanganea.at"
 theme = "vitae"
 publishDir = "public"
+    
