@@ -8,8 +8,7 @@ budget: "Budget: 7 mil"
 description: "Description: Academic lodging, library and restaurant. Part of the Granada Architecture restoration courses, the proposal connects and expands the former printing press into a multifunctional facility."
 images:
   - /img/00_light_module.jpg
-  - /00_light_module.jpg
-  - /static/img/00_light_module.jpg
+  - /serbanganea/img/00_light_module.jpg
   - /img/00_Site_Google.jpg
   - /img/000_perspective_2_ray_a.jpg
   - /img/01_Plaza_Jasmin_desat.jpg
