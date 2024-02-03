@@ -349,11 +349,16 @@ table th {
 
 .picture {
   display: block;
-  margin-right: 30px;
   border-top: 1px solid rgb(145, 145, 145);
   border-left: 1px solid  rgb(145, 145, 145);
-  min-width: 64px;
-  min-height: 64px;
+  width: 126px;
+  height: 126px;
+}
+
+.picture img {
+  object-fit: contain;
+  min-width: 126px;
+  max-width: 100%;
 }
 
 .post-header .meta .date .rest {

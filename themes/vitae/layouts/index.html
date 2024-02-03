@@ -8,6 +8,7 @@
       <div class="post-header">
         <div class="meta">
           <a class="picture" href="{{ .RelPermalink }}">
+            <img src="{{ with .Params.image }}{{ . }}{{ end }}" />
           </a>
         </div>
         <div class="matter">

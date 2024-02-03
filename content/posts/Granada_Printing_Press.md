@@ -5,6 +5,7 @@ program: "Program: Academic multifunctional facility restoration"
 year: "Year: 2013"
 team: "Team: Serban Ganea, Irene Meta, Chema Bernal Lapeña"
 budget: "Budget: 7 mil"
+image: "/img/00_light_module.jpg"
 description: "Description: Academic lodging, library and restaurant. Part of the Granada Architecture restoration courses, the proposal connects and expands the former printing press into a multifunctional facility."
 images:
   - /img/GRANADA/000_perspective_0_ray.jpg
