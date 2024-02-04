@@ -10,8 +10,16 @@
   <div class="titletext">
     <h1 class="header-text">
       <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+      
     </h1>
-    <h1 class="header-text">architect</h1>
+
+    <h1 class="header-text">
+      {{ if .IsTranslated }}
+      {{ range .AllTranslations }}
+        <a href="{{ .Permalink }}">{{ .Language.Lang }}</a>
+      {{ end}}
+  {{ end }}
+      </h1>
   </div>
   <div id="title-description">
     {{- if isset .Site.Params "subtitle" -}}

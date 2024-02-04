@@ -1,7 +1,23 @@
 baseURL = "https://aeonatelier.at/"
-languageCode = "en-us"
 title = "aeonatelier"
 footer = "atelier@serbanganea.at"
 theme = "vitae"
 publishDir = "public"
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+[languages]
+  [languages.de]
+    disabled = false
+    languageCode = 'de-DE'
+    languageDirection = 'ltr'
+    languageName = 'Deutsch'
+    title = 'aeonatelier'
+    weight = 1
+  [languages.en]
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'aeonatelier'
+    weight = 2
     
