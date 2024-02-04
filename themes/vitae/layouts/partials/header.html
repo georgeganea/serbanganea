@@ -12,7 +12,9 @@
       <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
       
     </h1>
-
+    <h1 class="header-text">
+      {{ .Site.Params.Subtitle }}
+    </h1>
     <h1 class="header-text">
       {{ if .IsTranslated }}
         {{ range .AllTranslations }}
@@ -23,7 +25,7 @@
   </div>
   <div id="title-description">
     {{- if isset .Site.Params "subtitle" -}}
-    <p id="subtitle">{{ .Site.Params.Subtitle | markdownify }}</p>
+    <p id="subtitle"></p>
     {{- end -}}
     <div id="social">
       <nav>

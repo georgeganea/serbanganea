@@ -13,6 +13,8 @@ defaultContentLanguageInSubdir = true
     languageName = 'Deutsch'
     title = 'aeonatelier'
     weight = 1
+    [languages.de.params]
+      subtitle = 'Architekt'
   [languages.en]
     disabled = false
     languageCode = 'en-US'
@@ -21,3 +23,5 @@ defaultContentLanguageInSubdir = true
     title = 'aeonatelier'
     weight = 2
     
+    [languages.en.params]
+      subtitle = 'Architect'
