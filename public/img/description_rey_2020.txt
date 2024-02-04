@@ -1,0 +1,7 @@
+Project:     Restauration Printing Press Rey Soler Granada 
+Year:        2013 
+Location:    Granada
+Team:        Serban Ganea, Irene Meta, José María Bernal Lapeña
+Program:     Library Cafe Student Dorm
+Area:	     2.200 m²
+ 
